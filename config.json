@@ -1,0 +1,14 @@
+{
+  "token": "MTUxMDc3MjcyOTk0OTg1MTY5OQ.Gj88N1.dGo2aoETFAhrLU52EDqSJCgFkiowLYtRzXrO7A",
+  "clientId": "1510772729949851699",
+  "guildId": "1098242468849401915",
+  "staffRoleIds": ["1149151559129772052", "1149151666994683996"],
+  "ownerIds": ["972530542094458960"],
+  "jsonbin": {
+    "apiKey": "$2a$10$JksXdahNvbUr5d0d945IluhUxh8dHyyKuC.r3GF3Dq.2h7a7UrFdS",
+    "binId": "6a41cdc9da38895dfe0da62e"
+  },
+  "alertsChannelId": "1521487964134313995",
+ "welcomeChannelId": "1419418881197473892",
+  "memberRoleId": "1148723008266047488"
+}
